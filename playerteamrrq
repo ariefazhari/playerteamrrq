@@ -1,0 +1,84 @@
+{
+  "result": [
+    {
+      "id": 1,
+      "no": " LEMON ",
+      "name": " M.Ikhsan ",
+      "birth_date": " 20 tahun ",
+      "Position": " Mage ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d341051d7716_lemon%20web%20new.png"
+    },
+    {
+      "id": 2,
+      "no": " R7 ",
+      "name": " Rifaldi Fatah ",
+      "birth_date": " 22 tahun ",
+      "Position": " Fighter ",
+      "Poster": "https://teamrrq.com/assets/member/nJtgJ_R7.png"
+    },
+    {
+      "id": 3,
+      "no": " RAVE ",
+      "name": " Fadhil Abdurrahman ",
+      "birth_date": " 23 tahun ",
+      "Position": " Tank/Support ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d1b0321c75a4_Rave%20web.png"
+    },
+    {
+      "id": 4,
+      "no": " TUTURU ",
+      "name": " Diky ",
+      "birth_date": " 25 Tahun ",
+      "Position": " Marksman ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d341071824ff_tuturu%20web%20new.png"
+    },
+    {
+      "id": 5,
+      "no": " LIAM ",
+      "name": " William Setiawan ",
+      "birth_date": " 21 Tahun ",
+      "Position": " Tank/Support ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d34118625127_LIAM%20web%20new.png"
+    },
+    {
+      "id": 6,
+      "no": " AYAM JAGO ",
+      "name": " Try Widyanto. S",
+      "birth_date": " 23 Tahun ",
+      "Position": " Mage ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d34117808f65_apang%20web%20new.png"
+    },
+    {
+      "id": 7,
+      "no": " BILLY ",
+      "name": " Agung Triwibowo ",
+      "birth_date": " 25 Tahun ",
+      "Position": " Fighter ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d1b034c4e972_Billy%20web.png"
+    },
+    {
+      "id": 8,
+      "no": " LJ ",
+      "name": " Joshua Darmansyah ",
+      "birth_date": " 21 Tahun ",
+      "Position": " Tank/Support ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d1b033f4f72c_LJ%20web.png"
+    },
+    {
+      "id": 9,
+      "no": " VYN ",
+      "name": " Calvin ",
+      "birth_date": " 19 Tahun ",
+      "Position": " Tank/Support ",
+      "Poster": "https://teamrrq.com/assets/member/members_images5d34116c09bf7_vyn%20baru%20web.png"
+    },
+    {
+      "id": 10,
+      "no": " XIN ",
+      "name": " Yesaya Omega Armando Lowling ",
+      "birth_date": " 21 Tahun ",
+      "Position": " Marksman/Assasin ",
+      "Poster": "https://teamrrq.com/assets/member/O0hgA_Xin.png"
+    }
+  ]
+}
